@@ -1,14 +1,14 @@
 ## Azizxon, founder at Untra Dev
 
-I run [Untra Dev](https://untra.dev), a small studio in Tashkent that builds websites, web apps and Telegram stores for small businesses.
+I run [Untra Dev](https://untra.dev), a small studio in Tashkent that builds websites and web apps for small businesses.
 
 Full-stack developer: Next.js, React, TypeScript, Node.js, PostgreSQL.
 
 ### What I do
 
-Websites and web apps for small business. Online stores and booking systems. Telegram stores and bots. Finishing apps that were started with AI tools (Lovable, Cursor, Claude Code).
+Websites and web apps for small business. Online stores with an admin panel. Booking systems and internal tools.
 
-I start every project with questions: how do orders come in today, who will use this, what is broken. Then I build only what helps.
+I start every project with questions: how do customers find you today, who will use this, what should it do. Then I build only what helps.
 
 ### Open source
 
